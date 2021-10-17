@@ -17,3 +17,7 @@
 ### The Solution
 
 ![](./assets/TreasureIsland.gif)
+
+## Day 04 - Jokenpo ✅
+
+![](./assets/Jokenpo.gif)
