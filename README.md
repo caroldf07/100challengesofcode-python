@@ -21,3 +21,7 @@
 ## Day 04 - Jokenpo ✅
 
 ![](./assets/Jokenpo.gif)
+
+## Day 05 - Password Generator ✅
+
+![](./assets/PasswordGenerator.gif)
