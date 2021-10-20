@@ -25,3 +25,7 @@
 ## Day 05 - Password Generator ✅
 
 ![](./assets/PasswordGenerator.gif)
+
+## Day 06 - Escaping the Maze ✅
+
+![Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
