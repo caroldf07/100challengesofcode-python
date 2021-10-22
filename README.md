@@ -35,3 +35,11 @@
 ### The Flow
 
 ![](./assets/SolutionHangmanFlowchart.png)
+
+### The Game
+
+![](./assets/Hangman.gif)
+
+## Day 08 - Caesar Cipher ✅
+
+![](./assets/CaesarCipher.gif)
