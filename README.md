@@ -43,3 +43,13 @@
 ## Day 08 - Caesar Cipher ✅
 
 ![](./assets/CaesarCipher.gif)
+
+## Day 09 - Secret Auction ✅
+
+### The Flow
+
+![](./assets/SecretAuction.png)
+
+### The Solution
+
+![](./assets/SecretAuction.gif)
