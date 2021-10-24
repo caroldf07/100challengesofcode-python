@@ -53,3 +53,7 @@
 ### The Solution
 
 ![](./assets/SecretAuction.gif)
+
+## Day 10 - Calculator ✅
+
+![](./assets/Calculator.gif)
