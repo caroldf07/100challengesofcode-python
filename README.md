@@ -57,3 +57,11 @@
 ## Day 10 - Calculator ✅
 
 ![](./assets/Calculator.gif)
+
+## Day 11 - Black Jack ✅
+
+![](./assets/Blackjack.gif)
+
+## Day 12 - Number Guess ✅
+
+![](./assets/Numberguess.gif)
