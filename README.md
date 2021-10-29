@@ -65,3 +65,9 @@
 ## Day 12 - Number Guess ✅
 
 ![](./assets/Numberguess.gif)
+
+## Day 13 - Praticing Debbugging ✅
+
+## Day 14 - Higher or Lower ✅
+
+![](./assets/Numberguess.gif)
