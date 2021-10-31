@@ -70,4 +70,12 @@
 
 ## Day 14 - Higher or Lower ✅
 
-![](./assets/Numberguess.gif)
+![](./assets/Higherlower.gif)
+
+## Day 15 - Coffe Machine ✅
+
+![](./assets/Coffeemachine.gif)
+
+## Day 16 - Coffe Machine - in OOP ✅
+
+![](./assets/Coffeemachine.gif)
