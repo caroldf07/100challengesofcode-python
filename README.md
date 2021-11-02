@@ -81,3 +81,5 @@
 ![](./assets/Coffeemachine.gif)
 
 ## Day 17 - Trivia game ✅
+
+## Day 18 - Hirst Painting ✅
