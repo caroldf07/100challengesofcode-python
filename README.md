@@ -85,3 +85,6 @@
 ## Day 18 - Hirst Painting ✅
 
 ## Day 19 - Turtles Game ✅
+![](./assets/turtle_race.gif)
+
+## Day 20 - Mail Merge ✅
