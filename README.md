@@ -1,14 +1,14 @@
 # 100daysofcode-python
 
-## Day 01 - Band Name Generator ✅
+## Challenge 01 - Band Name Generator ✅
 
 ![](./assets/BandNameGenerator.gif)
 
-## Day 02 - Tip Calculator ✅
+## Challenge 02 - Tip Calculator ✅
 
 ![](./assets/TipCalculator.gif)
 
-## Day 03 - Treasure Island ✅
+## Challenge 03 - Treasure Island ✅
 
 ### The Flow
 
@@ -18,19 +18,19 @@
 
 ![](./assets/TreasureIsland.gif)
 
-## Day 04 - Jokenpo ✅
+## Challenge 04 - Jokenpo ✅
 
 ![](./assets/Jokenpo.gif)
 
-## Day 05 - Password Generator ✅
+## Challenge 05 - Password Generator ✅
 
 ![](./assets/PasswordGenerator.gif)
 
-## Day 06 - Escaping the Maze ✅
+## Challenge 06 - Escaping the Maze ✅
 
 ![Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
-## Day 07 - Hangman ✅
+## Challenge 07 - Hangman ✅
 
 ### The Flow
 
@@ -40,11 +40,11 @@
 
 ![](./assets/Hangman.gif)
 
-## Day 08 - Caesar Cipher ✅
+## Challenge 08 - Caesar Cipher ✅
 
 ![](./assets/CaesarCipher.gif)
 
-## Day 09 - Secret Auction ✅
+## Challenge 09 - Secret Auction ✅
 
 ### The Flow
 
@@ -54,37 +54,41 @@
 
 ![](./assets/SecretAuction.gif)
 
-## Day 10 - Calculator ✅
+## Challenge 10 - Calculator ✅
 
 ![](./assets/Calculator.gif)
 
-## Day 11 - Black Jack ✅
+## Challenge 11 - Black Jack ✅
 
 ![](./assets/Blackjack.gif)
 
-## Day 12 - Number Guess ✅
+## Challenge 12 - Number Guess ✅
 
 ![](./assets/Numberguess.gif)
 
-## Day 13 - Praticing Debbugging ✅
+## Challenge 13 - Praticing Debbugging ✅
 
-## Day 14 - Higher or Lower ✅
+## Challenge 14 - Higher or Lower ✅
 
 ![](./assets/Higherlower.gif)
 
-## Day 15 - Coffe Machine ✅
+## Challenge 15 - Coffe Machine ✅
 
 ![](./assets/Coffeemachine.gif)
 
-## Day 16 - Coffe Machine - in OOP ✅
+## Challenge 16 - Coffe Machine - in OOP ✅
 
 ![](./assets/Coffeemachine.gif)
 
-## Day 17 - Trivia game ✅
+## Challenge 17 - Trivia game ✅
 
-## Day 18 - Hirst Painting ✅
+## Challenge 18 - Hirst Painting ✅
 
-## Day 19 - Turtles Game ✅
+## Challenge 19 - Turtles Game ✅
 ![](./assets/turtle_race.gif)
 
-## Day 20 - Mail Merge ✅
+## Challenge 20 - Mail Merge ✅
+
+## Challenge 21 - Blank States Game ✅
+
+## Challenge 22 - Nato Phonetic Alphabet ✅
