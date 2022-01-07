@@ -97,3 +97,6 @@
 
 ## Challenge 24 - Pomodoro ✅
 ![](./assets/Pomodoro.gif)
+
+## Challenge 25 - Password Manager V1 ✅
+![](./assets/PasswordManagerV1.gif)
